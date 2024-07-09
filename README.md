@@ -1,2 +1,2 @@
 # Resume
-link:khushi-155/My-Resume
+link:https://khushi-155.github.io/Resume/
